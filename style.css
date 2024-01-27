@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+header a {
+  text-decoration: none;
+  border: solid blue;
+  border-radius: 7px;
+  background-color: blue;
+  color: white;
+  padding: 2px;
+  margin: 4px;
+}
+header {
+  border:  3px solid blue;
+  padding: 8px;
+  border-radius: 7px;
+}
+ h1 {
+  color: blueviolet;
+}
+footer{
+  border: 2mm solid burlywood;
+}
+footer p{
+  margin: 5px;
+}
+nav {
+  background-color: darkgreen;
+  border: darkgreen;
+  border-radius: 6px;
+}
+nav a{
+  margin: 15px;
+  color: white;
+  text-decoration: none;
+}
+.produkti {
+background-color: springgreen;
+}
